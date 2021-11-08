@@ -1,1 +1,1 @@
-# xv6-with-lottery-scheduler
+# CS-4348-Project-2-Add_Lottery_Scheduler_to_xv6
